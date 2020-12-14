@@ -1,12 +1,8 @@
-.. image:: https://img.shields.io/travis/kraiz/django-crontab/master.svg
+.. image:: https://img.shields.io/pypi/v/dj-crontab.svg
     :target: https://pypi.python.org/pypi/dj-crontab
-.. image:: https://img.shields.io/coveralls/kraiz/django-crontab/master.svg
+.. image:: https://img.shields.io/pypi/pyversions/dj-crontab.svg
     :target: https://pypi.python.org/pypi/dj-crontab
-.. image:: https://img.shields.io/pypi/v/django-crontab.svg
-    :target: https://pypi.python.org/pypi/dj-crontab
-.. image:: https://img.shields.io/pypi/pyversions/django-crontab.svg
-    :target: https://pypi.python.org/pypi/dj-crontab
-.. image:: https://img.shields.io/pypi/l/django-crontab.svg
+.. image:: https://img.shields.io/pypi/l/dj-crontab.svg
     :target: https://pypi.python.org/pypi/dj-crontab
 
 about
