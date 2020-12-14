@@ -1,18 +1,27 @@
 .. image:: https://img.shields.io/travis/kraiz/django-crontab/master.svg
-    :target: https://travis-ci.org/kraiz/django-crontab
+    :target: https://pypi.python.org/pypi/dj-crontab
 .. image:: https://img.shields.io/coveralls/kraiz/django-crontab/master.svg
-    :target: https://coveralls.io/r/kraiz/django-crontab
+    :target: https://pypi.python.org/pypi/dj-crontab
 .. image:: https://img.shields.io/pypi/v/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
+    :target: https://pypi.python.org/pypi/dj-crontab
 .. image:: https://img.shields.io/pypi/pyversions/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
+    :target: https://pypi.python.org/pypi/dj-crontab
 .. image:: https://img.shields.io/pypi/l/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
+    :target: https://pypi.python.org/pypi/dj-crontab
 
 about
 =====
 
-dead simple crontab powered job scheduling for django (1.8-3.1).
+Simple crontab powered job scheduling for django (1.8-3.1) forked from https://github.com/kraiz/django-crontab.
+
+author
+=====
+-  `Lance Moe`_
+
+   @LanceMoe is the current maintainer of the code.
+
+.. _Lance Moe: https://github.com/LanceMoe
+
 
 setup
 =====
@@ -27,7 +36,7 @@ add it to installed apps in django settings.py:
 .. code:: python
 
     INSTALLED_APPS = (
-        'django_crontab',
+        'dj_crontab',
         ...
     )
 
