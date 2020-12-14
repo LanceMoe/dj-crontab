@@ -1,3 +1,8 @@
+0.8.0
+-----
+* bugfix: index error when removing cron; fixes #90
+* feature: added support for Django 3.1 + Python 3.8
+
 0.7.1
 -----
 * bugfix: allow project path to contain "run" #30 (thx vinsia)

@@ -12,7 +12,7 @@
 about
 =====
 
-dead simple crontab powered job scheduling for django (1.8-2.0).
+dead simple crontab powered job scheduling for django (1.8-3.1).
 
 setup
 =====
@@ -20,7 +20,7 @@ install via pip:
 
 .. code:: bash
 
-    pip install django-crontab
+    pip install dj-crontab
 
 add it to installed apps in django settings.py:
 

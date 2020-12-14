@@ -3,13 +3,13 @@ from setuptools import setup
 
 
 setup(
-    name='django-crontab',
+    name='dj-crontab',
     description='dead simple crontab powered job scheduling for django',
-    version='0.7.1',
-    author='Lars Kreisz',
-    author_email='lars.kreisz@gmail.com',
+    version='0.8.0',
+    author='Lance.Moe',
+    author_email='admin@lance.moe',
     license='MIT',
-    url='https://github.com/kraiz/django-crontab',
+    url='https://github.com/LanceMoe/dj-crontab',
     long_description=open('README.rst').read(),
     packages=[
         'django_crontab',
@@ -33,6 +33,9 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
         'Topic :: System :: Installation/Setup'
     ]
 )

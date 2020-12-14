@@ -2,10 +2,10 @@
 * Operating system: 
 * Python:
 * Django:
-* django-crontab:
+* dj-crontab:
 
 #### Settings
-* My `django-crontab` settings: 
+* My `dj-crontab` settings: 
 ```python
 CRONJOBS = [
   ...
