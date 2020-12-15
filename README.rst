@@ -32,7 +32,7 @@ add it to installed apps in django settings.py:
 .. code:: python
 
     INSTALLED_APPS = (
-        'dj_crontab',
+        'django_crontab',
         ...
     )
 
